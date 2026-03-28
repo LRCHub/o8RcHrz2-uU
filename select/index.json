@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "The Days (NOTION Remix)",
+  "base_artist": "CHRYSTAL",
+  "createdAt": "2026-03-28T04:27:19.396653Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Days (Notion Remix)",
+      "artist": "CHRYSTAL",
+      "has_synced": true,
+      "path": "select/01_The_Days_(Notion_Remix)_CHRYSTAL.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "CHRYSTAL - THE DAYS  (NOTION REMIX)",
+      "artist": "NOTION",
+      "has_synced": true,
+      "path": "select/02_CHRYSTAL_-_THE_DAYS_(NOTION_REMIX)_NOTION.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Days - NOTION Remix",
+      "artist": "Chrystal",
+      "has_synced": true,
+      "path": "select/03_The_Days_-_NOTION_Remix_Chrystal.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Days (NOTION Remix)",
+      "artist": "Song, CHRYSTAL",
+      "has_synced": true,
+      "path": "select/04_The_Days_(NOTION_Remix)_Song,_CHRYSTAL.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Days - NOTION Remix",
+      "artist": "Chrystal",
+      "has_synced": true,
+      "path": "select/05_The_Days_-_NOTION_Remix_Chrystal.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Days (NOTION Remix)",
+      "artist": "CHRYSTAL/NOTION",
+      "has_synced": true,
+      "path": "select/06_The_Days_(NOTION_Remix)_CHRYSTAL_NOTION.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Days (NOTION Remix Slowed)",
+      "artist": "CHRYSTAL",
+      "has_synced": true,
+      "path": "select/07_The_Days_(NOTION_Remix_Slowed)_CHRYSTAL.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Days - NOTION Remix",
+      "artist": "Chrystal/NOTION",
+      "has_synced": true,
+      "path": "select/08_The_Days_-_NOTION_Remix_Chrystal_NOTION.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Days (NOTION Remix)",
+      "artist": "CHRYSTAL, NOTION",
+      "has_synced": true,
+      "path": "select/09_The_Days_(NOTION_Remix)_CHRYSTAL,_NOTION.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "...On The Radio (Remember the Days) (Remix)",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/10_...On_The_Radio_(Remember_the_Days)_(Remix)_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Those Were The Days Remix",
+      "artist": "Ima",
+      "has_synced": false,
+      "path": "select/11_Those_Were_The_Days_Remix_Ima.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Days (Remix)",
+      "artist": "Chrystal, NOTION",
+      "has_synced": true,
+      "path": "select/12_The_Days_(Remix)_Chrystal,_NOTION.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Days (Remix)",
+      "artist": "Chrystal, e, NOTION",
+      "has_synced": true,
+      "path": "select/13_The_Days_(Remix)_Chrystal,_e,_NOTION.lrc"
+    }
+  ]
+}
